@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Email Segregation
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
