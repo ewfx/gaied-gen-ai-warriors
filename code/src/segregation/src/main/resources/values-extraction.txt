@@ -1,0 +1,10 @@
+Classify the following email into one of these categories: [Billing Issue, Technical Support, Sales Inquiry, General Inquiry].
+Then, extract relevant details such as:
+- dealName (if applicable)
+- amount (if mentioned)
+- expirationDate (if specified)
+- other relevant details.
+
+Email: "I am interested in the Gold Plan which costs $500. Does the offer expire soon?"
+
+Return the response in less than 10 words

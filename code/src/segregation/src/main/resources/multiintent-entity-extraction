@@ -1,0 +1,16 @@
+Analyze the following email and classify it into one or more categories:
+[Billing Issue, Technical Support, Sales Inquiry, General Inquiry].
+
+- Identify all relevant categories based on the sender’s intent.
+- Determine the primary request (the sender’s main concern).
+- Extract relevant details (dealName, amount, expirationDate, etc.) for each request type.
+
+Example:
+Email: "I was charged incorrectly on my last bill and also need help resetting my password. Also, I'm interested in upgrading to the Gold Plan."
+Response should be like below:
+Primary Request: Billing Issue
+Requests Identified: [Billing Issue, Technical Support, Sales Inquiry]
+Entities:
+- Billing Issue: amount: $100, issue: incorrect charge
+- Technical Support: issue: password reset
+- Sales Inquiry: dealName: Gold Plan

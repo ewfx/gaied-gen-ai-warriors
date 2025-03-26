@@ -1,0 +1,3 @@
+Classify the following email into one of these categories: [Billing Issue, Technical Support, Sales Inquiry, General Inquiry] by generating the code using springboot with llama in local.
+Email: "Hi, I was charged twice for my last invoice. Can you help?"
+Return the response in less than 10 words
